@@ -85,3 +85,9 @@ fun cabecera(modifier: Modifier) {
     Icon(imageVector = Icons.Default.Close, contentDescription = "Cerrar",
         modifier = Modifier.clickable { activity.finish() })
 }
+
+//hola probando los commit
+@Composable
+fun probandoCommit(){
+
+}
